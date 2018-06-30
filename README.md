@@ -3,7 +3,7 @@
 # Profile card
 
 Yo! welcome to my repo. Chaeck ou this beautiful profile card that delivers content 
-via jQuery DOM manipulstion. you can click this link [...] to see how it looks. I hope you like it
+via jQuery DOM manipulstion. you can click this link [https://yaw595.github.io/Card-animation---jQuerry/] to see how it looks. I hope you like it
 
 you can also contact me on donkoryaw94@gmail.com if you need fast beautiful UI
 
