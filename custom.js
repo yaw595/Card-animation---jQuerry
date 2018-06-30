@@ -9,7 +9,7 @@ $(document).ready(function () {
       $('.card-img-top').hide(1000);
       $('.avatar').hide(1000);
       $('#cbd1').hide(1000);
-      $('#cb2').show(1000);
+      $('#cb2').show(1000); 
     });
     
     function infoChange() {
