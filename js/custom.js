@@ -12,16 +12,16 @@ $(document).ready(function () {
     $('#cb2').show(1000);
   });
   
-  // function infoChange() {
-  //   $('.card-img-top').hide();
-  //   $('.avatar').hide();
-  //   $('#cbd1').hide();
-  //   $('#cb2').show();
-  // };
+  function infoChange() {
+    $('.card-img-top').hide();
+    $('.avatar').hide();
+    $('#cbd1').hide();
+    $('#cb2').show();
+  };
   
-  // $("#btn1").click(function() {
-  //   infoChange();
-  // });
+  $("#btn1").click(function() {
+    infoChange();
+  });
   
   $("#btn2").click(function() {
     $('#cb2').hide(1000);
