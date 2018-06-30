@@ -6,10 +6,10 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $("#btn1").click(function () {
-    $('.card-img-top').fadeOut(1000);
-    $('.avatar').fadeOut(1000);
-    $('#cbd1').fadeOut(1000);
-    $('#cb2').fadeIn(1000);
+    $('.card-img-top').hide(1000);
+    $('.avatar').hide(1000);
+    $('#cbd1').hide(1000);
+    $('#cb2').show(1000);
   });
   
   // function infoChange() {
@@ -24,10 +24,10 @@ $(document).ready(function () {
   // });
   
   $("#btn2").click(function() {
-    $('#cb2').fadeOut(1000);
-    $('.card-img-top').fadeIn(1000);
-    $('.avatar').fadeIn(1000);
-    $('#cbd1').fadeIn(1000);
+    $('#cb2').hide(1000);
+    $('.card-img-top').show(1000);
+    $('.avatar').show(1000);
+    $('#cbd1').show(1000);
   });
   
 });
