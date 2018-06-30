@@ -24,7 +24,7 @@ body {
   
   .avatar {
      position: relative;
-     margin-top: -100px;
+     margin-top: -55px;
      width: 120px;
      height: 120px;
      background: #fff;
@@ -39,6 +39,7 @@ body {
     height: 150px;
     padding: 5px;
     border: none;
+    margin: 20px;
     border-radius: 50%;
     background: red;
     background: -webkit-linear-gradient(left, rgb(255, 136, 0), red);
